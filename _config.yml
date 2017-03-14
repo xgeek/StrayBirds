@@ -65,7 +65,7 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
+    name: xgeek
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: xgeek
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
